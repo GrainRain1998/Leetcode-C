@@ -1,4 +1,4 @@
-# Leetcode-C++
+# Leetcode-C
 ## 仓库简介
 
 ## 数据结构
