@@ -1,7 +1,7 @@
 # Leetcode-C
 ## 仓库简介
 
-### 本仓库为Leetcode题解之C语言版本.
+本仓库为Leetcode题解之C语言版本.
 
 
 
